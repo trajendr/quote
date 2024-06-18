@@ -1,0 +1,26 @@
+*{
+    background-color: black;
+  }
+  h1 {
+font-family: "Libre Baskerville", serif;
+font-weight: 700;
+font-style: normal;
+text-transform: uppercase;
+font-size: 3rem;
+
+}
+
+  h1, h2{
+    color: aliceblue;
+  }
+  
+  img{
+    border:5px solid white;
+    width:100%;
+  }
+  div{
+    width:50%;
+    margin-left: 25% ;
+    text-align: center;
+    margin-top: 100px;
+  }
